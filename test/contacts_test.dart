@@ -1,6 +1,4 @@
-import 'dart:typed_data';
-
-import 'package:contacts_service/contacts_service.dart';
+import 'package:contacts_service_lt/contacts_service.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_test/flutter_test.dart';
 

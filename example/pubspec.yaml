@@ -1,7 +1,8 @@
 name: contacts_service_example
 description: Demonstrates how to use the contacts_service plugin.
+version: 0.1.0+1
 environment:
-  sdk: '>=2.10.0 <3.0.0'
+  sdk: '>=2.12.0 <3.0.0'
 dependencies:
   flutter:
     sdk: flutter
@@ -16,7 +17,7 @@ dev_dependencies:
     sdk: flutter
 
   permission_handler: ^6.1.1
-  contacts_service:
+  contacts_service_lt:
     path: ../
 
 # For information on the generic Dart part of this file, see the

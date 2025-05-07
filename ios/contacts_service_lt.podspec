@@ -2,9 +2,9 @@
 # To learn more about a Podspec see http://guides.cocoapods.org/syntax/podspec.html
 #
 Pod::Spec.new do |s|
-  s.name             = 'contacts_service'
-  s.version          = '0.2.2'
-  s.summary          = 'A new Flutter plugin.'
+  s.name             = 'contacts_service_lt'
+  s.version          = '0.6.4'
+  s.summary          = 'A Flutter plugin to retrieve and manage contacts on iOS devices.'
   s.description      = <<-DESC
 A new Flutter plugin.
                        DESC
@@ -19,4 +19,3 @@ A new Flutter plugin.
   s.ios.deployment_target = '8.0'
   s.swift_version         = '4.2'
 end
-
